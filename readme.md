@@ -1,10 +1,10 @@
 # Smaple Logo
-![Logo](https://logosbynick.com/wp-content/uploads/2018/03/final-logo-example.png)
+![Logo](./logo.png)
 
 팀명 텍스트 및 팀명 로고 이미지 **(택1)**
 
 ## 팀소개 및 프로잭트 설명 동영상
-[![Watch the video](https://img.youtube.com/vi/LjX3eVQdIyk/0.jpg)](https://www.youtube.com/watch?time_continue=117&v=LjX3eVQdIyk)
+![Watch the video](./title.png)
 
 ## 기능 설계
  - 발사믹, 카카오 오븐 등 본인이 편한 목업 프레임워크를 이용하여 제작 후 링크 
