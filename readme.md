@@ -1,5 +1,5 @@
 # Smaple Logo
-![Logo](./logo.png)
+![Logo](./logo(125x125).png)
 
 팀명 텍스트 및 팀명 로고 이미지 **(택1)**
 
